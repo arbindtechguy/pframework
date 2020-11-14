@@ -1,2 +1,3 @@
-# techguyframework
-A light weight frameword based on php
+# TechGuyFramework
+A simple light weight MVC framework on PHP
+
