@@ -1,3 +1,3 @@
 # TechGuyFramework
-A simple light weight MVC framework on PHP
+A simple light-weight MVC framework on PHP
 
