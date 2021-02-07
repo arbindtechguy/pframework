@@ -32,4 +32,6 @@
 ##Thanks for checking it out.
 
 >start with
--git clone git@github.com:arbindtechguy/pframework.git
+```
+git clone git@github.com:arbindtechguy/pframework.git
+```
