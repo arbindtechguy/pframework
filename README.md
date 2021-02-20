@@ -1,5 +1,7 @@
-# p-framework
-
+<h1> pframework</h1>
+<title>pframework</title>  
+<meta name="description" content= "- A very lightweight and fast, simple and the source is very easy to modify.  Pframework is a high-level PHP Web framework that encourages rapid development." />
+<meta name="robots" content= "index, follow">
 ## About pframework
 > Note: It contains the core code of the pframework framework. Its built and tested on PHP version 7.3
 ###### Pframework is a high-level PHP Web framework that encourages rapid development and clean, pragmatic design.
